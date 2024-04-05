@@ -24,7 +24,7 @@
 </details>
 
 ## Lisans Uygulaması Nasıl Kullanılır?
-1. **Uygulama henüz tamamlanmadığı için geri kalan projeyi tamamlamanız gerekmektedir.**
+- **Uygulama henüz tamamlanmadığı için geri kalan projeyi tamamlamanız gerekmektedir.**
 
 [discord]: Zyix#1002
 [youtube]: https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber
