@@ -55,5 +55,8 @@
        - [ ] **Kullanıcı Arayüzünü Özelleştirme:** Kullanıcı arayüzünü projenizin marka kimliğiyle uyumlu hale getirin.
        - [ ] **Lisans Koşullarını Tanımlama:** Programınız tarafından verilen lisanslar için koşulları ve şartları tanımlayın.
        - [ ] **Ek Özellikler Eklenmesi:** Projeye özgü herhangi ek özellikleri uygulayın.
-</samp>
+<hr>
+      <strong>Lisans:</strong> Bu proje <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU Genel Kamu Lisansı</a> (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için <a href="LICENSE">LİSANS</a> dosyasına bakabilirsiniz.<br>
+      &copy; 2024 <a href="https://github.com/Zyix-code">Selçuk Şahin</a>
+   </samp>
 </p>
