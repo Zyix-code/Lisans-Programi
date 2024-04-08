@@ -41,19 +41,19 @@
 
 <p align="center">
   <samp>
-    How does the License Program work?
+    Lisans Programı nasıl çalışır?
     
-1. **Perform License Check:**
-   - Your program checks the license information provided by the user.
+1. **Lisans Kontrolü Gerçekleştirme:**
+   - Programınız, kullanıcı tarafından sağlanan lisans bilgilerini kontrol eder.
 
-2. **Perform Activation:**
-   - If the license information is valid, the program proceeds with activation, allowing the user to access its full functionality.
+2. **Etkinleştirme Gerçekleştirme:**
+   - Lisans bilgileri geçerliyse, program etkinleştirme işlemine devam eder ve kullanıcının tam işlevselliğe erişmesine izin verir.
 
-3. **Customization Required:**
-   - Please note that certain parts of the program require customization based on your specific project requirements. These sections are indicated below:
+3. **Özelleştirme Gereklidir:**
+   - Lütfen programın belirli bölümlerinin, projenizin belirli gereksinimlerine göre özelleştirilmesi gerektiğini unutmayın. Bu bölümler aşağıda belirtilmiştir:
 
-       - [ ] **Customize User Interface:** Customize the user interface to match your project's branding.
-       - [ ] **Define License Terms:** Define the terms and conditions for the licenses issued by your program.
-       - [ ] **Implement Additional Features:** Implement any additional features specific to your project.
+       - [ ] **Kullanıcı Arayüzünü Özelleştirme:** Kullanıcı arayüzünü projenizin marka kimliğiyle uyumlu hale getirin.
+       - [ ] **Lisans Koşullarını Tanımlama:** Programınız tarafından verilen lisanslar için koşulları ve şartları tanımlayın.
+       - [ ] **Ek Özellikler Eklenmesi:** Projeye özgü herhangi ek özellikleri uygulayın.
 </samp>
 </p>
